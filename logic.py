@@ -133,5 +133,7 @@ board2 = [[7, 8, 0, 4, 0, 0, 1, 2, 0],
           [1, 2, 0, 0, 0, 7, 4, 0, 0],
           [0, 4, 9, 2, 0, 6, 0, 0, 7]]
 
-
-printBoard(solveBoard(board1))
+if __name__ == '__main__':
+    printBoard(solveBoard(board1))
+    print('-'*30)
+    printBoard(solveBoard(board2))

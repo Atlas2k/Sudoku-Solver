@@ -1,4 +1,8 @@
-# Sudoku-Solver
-This is a sudoku solver that uses backtracking to solve the board. It's basic I know, but hey I'm learning.  
-Note: The test boards were both copied from tutorials on the web. I promise I didn't cheat I just couldn't be asked to type out my own valid board.  
-A GUI will probably added in the future.
+# Sudoku Solver
+This is a Sudoku solver that implements a backtracking algorithm to solve given boards.
+A basic GUI was also made just to make the whole thing a little neater.
+**Note:** The boards used to show off and test the program are not my own.
+
+
+# Possible Future Additions
+The GUI could be made prettier and more useful as I further learn the library used.
